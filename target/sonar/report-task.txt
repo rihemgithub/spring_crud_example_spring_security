@@ -1,0 +1,5 @@
+projectKey=tn.iit:springTest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/tn.iit:springTest
+ceTaskId=AV8K4NQ8v-_DfD-SDPRr
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV8K4NQ8v-_DfD-SDPRr
